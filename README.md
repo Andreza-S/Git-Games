@@ -2,7 +2,7 @@
 
 ![panda gamer](https://github.com/Andreza-S/Git-Games/blob/main/panda-playing.gif)
 
-Games desenvolvidos durantes estudos
+Games desenvolvidos durante estudos
 
 
 >:construction: Sempre em construção :construction:
